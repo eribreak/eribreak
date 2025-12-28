@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Hieu:
-💻 I’m a Web Developer, currently interested in AI, Cloud Computing, and DevOps  <br>🎓 I studied Information Technology – HEDSPI (Vietnam–Japan program) at Hanoi University of Science and Technology  <br>🔭 I’m working as a Full Stack Developer<br>👯 I’m open to collaborating on web development and AI-related projects  <br>🌐 Capable of Japanese (JLPT N2) and basic English for communication and technical reading  <br>📫 Reach me at: transyhieu987@gmail.com<br>
+💻 I’m a Web Developer, currently interested in AI, Cloud Computing, and DevOps  <br>🎓 I studied Information Technology – HEDSPI (Vietnam–Japan program) at Hanoi University of Science and Technology  <br>🔭 I’m working as a Full Stack Developer<br>👯 I’m open to collaborating on web development<br>🌐 Capable of Japanese (JLPT N2) and basic English for communication and technical reading  <br>📫 Reach me at: transyhieu987@gmail.com<br>
 
 
 ## 🌐 Socials:
